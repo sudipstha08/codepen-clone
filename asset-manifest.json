@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/github.io/codepen-clone/static/css/main.594f4e11.chunk.css",
+    "main.js": "/github.io/codepen-clone/static/js/main.d4ba2169.chunk.js",
+    "main.js.map": "/github.io/codepen-clone/static/js/main.d4ba2169.chunk.js.map",
+    "runtime-main.js": "/github.io/codepen-clone/static/js/runtime-main.544d56cf.js",
+    "runtime-main.js.map": "/github.io/codepen-clone/static/js/runtime-main.544d56cf.js.map",
+    "static/css/2.c46397a6.chunk.css": "/github.io/codepen-clone/static/css/2.c46397a6.chunk.css",
+    "static/js/2.c695722c.chunk.js": "/github.io/codepen-clone/static/js/2.c695722c.chunk.js",
+    "static/js/2.c695722c.chunk.js.map": "/github.io/codepen-clone/static/js/2.c695722c.chunk.js.map",
+    "index.html": "/github.io/codepen-clone/index.html",
+    "precache-manifest.a1615bd34bf389f50323273e0f8f42a4.js": "/github.io/codepen-clone/precache-manifest.a1615bd34bf389f50323273e0f8f42a4.js",
+    "service-worker.js": "/github.io/codepen-clone/service-worker.js",
+    "static/css/2.c46397a6.chunk.css.map": "/github.io/codepen-clone/static/css/2.c46397a6.chunk.css.map",
+    "static/css/main.594f4e11.chunk.css.map": "/github.io/codepen-clone/static/css/main.594f4e11.chunk.css.map",
+    "static/js/2.c695722c.chunk.js.LICENSE.txt": "/github.io/codepen-clone/static/js/2.c695722c.chunk.js.LICENSE.txt",
+    "static/media/cloud.svg": "/github.io/codepen-clone/static/media/cloud.47ce9d1c.svg",
+    "static/media/down-arrow.svg": "/github.io/codepen-clone/static/media/down-arrow.8a128b27.svg",
+    "static/media/logo.svg": "/github.io/codepen-clone/static/media/logo.d7f89524.svg",
+    "static/media/nerd.svg": "/github.io/codepen-clone/static/media/nerd.9d5c7a8c.svg",
+    "static/media/pen.svg": "/github.io/codepen-clone/static/media/pen.367027a8.svg",
+    "static/media/pinned.svg": "/github.io/codepen-clone/static/media/pinned.213528bf.svg",
+    "static/media/settings.svg": "/github.io/codepen-clone/static/media/settings.473a0fa2.svg",
+    "static/media/view-change.svg": "/github.io/codepen-clone/static/media/view-change.a3f72962.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.544d56cf.js",
+    "static/css/2.c46397a6.chunk.css",
+    "static/js/2.c695722c.chunk.js",
+    "static/css/main.594f4e11.chunk.css",
+    "static/js/main.d4ba2169.chunk.js"
+  ]
+}
