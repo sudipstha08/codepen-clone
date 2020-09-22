@@ -24,10 +24,10 @@
     "static/media/view-change.svg": "/github.io/codepen-clone/static/media/view-change.a3f72962.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.544d56cf.js",
-    "static/css/2.c46397a6.chunk.css",
-    "static/js/2.c695722c.chunk.js",
-    "static/css/main.594f4e11.chunk.css",
-    "static/js/main.d4ba2169.chunk.js"
+    "/github.io/codepen-clone/static/js/runtime-main.544d56cf.js",
+    "/github.io/codepen-clone/static/css/2.c46397a6.chunk.css",
+    "/github.io/codepen-clone/static/js/2.c695722c.chunk.js",
+    "/github.io/codepen-clone/static/css/main.594f4e11.chunk.css",
+    "/github.io/codepen-clone/static/js/main.d4ba2169.chunk.js"
   ]
 }
